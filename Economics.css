@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+ul {
+    list-style: none;
+}
+li {
+    display: inline-block;
+}
+
+.header_title {
+    background-color: brown;
+}
+.header-nav {
+    background-color:black;
+}
+
+.Menu {
+    background-color: cyan;
+}
